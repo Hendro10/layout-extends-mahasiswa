@@ -16,5 +16,4 @@
             </div>
         </div>
     </div>
-@endsection
-<p> Sebuah paragraf </p>
+@endsection('content')
